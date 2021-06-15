@@ -15,7 +15,7 @@ This allows you to use the excellent PyCharm debugger.
 
 ### Django Tests preparation
 
-Django makes it easy to start adding tests to a new project, by handling all the test enviroment setup automatically.  
+Django makes it easy to start adding tests to a new project, by handling all the test environment setup automatically.  
 Django finds your database setup from our environment_variables.json and then, for every test run, it creates a test 
 instance of our database on the fly that it calls test_WeVoteServerDB, and uses it for the test, then drops it (deletes it) 
 at the end of the test run.  The whole test run takes less than a half minute, so that create/destroy of the DB is fast.

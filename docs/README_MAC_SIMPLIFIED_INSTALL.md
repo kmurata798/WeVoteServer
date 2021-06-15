@@ -81,7 +81,7 @@ that you would like!
    ![ScreenShot](images/CorrectedToUpstream.png)
    
    <!-- The goal of this instruction set was to remove any steps that weren't absolutely necessary, and to leverage built 
-   in GUI based operations in PyCharm in order to make the install non-techical as possible
+   in GUI based operations in PyCharm in order to make the install non-technical as possible
 
    **Optional alternative way to do the same thing:** If you would prefer to directly edit the git configuration files, 
    there is another way to perform the same changes described in this step.  To change origin and upstream manually 
@@ -136,7 +136,7 @@ the following command:
     
     This loads a Ruby script (Ruby comes pre-loaded in MacOS), and Ruby uses curl (also pre-loaded) to pull the file into the
     the bash (terminal) command shell for execution.  This Ruby script also internally uses 'sudo' which temporarily gives 
-    the script root priviliges to install software, so you will need to know an admin password for your Mac.  
+    the script root privileges to install software, so you will need to know an admin password for your Mac.  
 
 1. Install the latest Python
 
@@ -471,7 +471,3 @@ load some ballot data.**
 Step 6:  [Set up Initial Data](README_API_INSTALL_SETUP_DATA.md)
 
 [Back to root README](../README.md)
-
-
-
-

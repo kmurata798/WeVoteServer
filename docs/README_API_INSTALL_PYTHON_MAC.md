@@ -65,7 +65,7 @@ For mac:
     
 Note: If you are having trouble with some of the packages in requirements.txt ('psycopg2') make sure that the
 libraries that pip is looking for under /usr/local/lib exists in that folder, or are linked from another location.
-For example, for -lssl and -lcrypto to work, you may wany to do the following:
+For example, for -lssl and -lcrypto to work, you may want to do the following:
 
     $ ln -s /usr/local/opt/openssl/lib/libcrypto.dylib /usr/local/lib/libcrypto.dylib
     $ ln -s /usr/local/opt/openssl/lib/libssl.dylib /usr/local/lib/libssl.dylib
