@@ -23,7 +23,7 @@ createdb
 psql
 ```
 
-You should see a prompt with your name pop-up which means everything works as expected. Once you've asserted it works, you may exit with Crtl+Z. You have to create a second user called postgres in order to be able to connect with and log in to pgAdmin. 
+You should see a prompt with your name pop-up which means everything works as expected. Once you've asserted it works, you may exit with Ctrl+Z. You have to create a second user called postgres in order to be able to connect with and log in to pgAdmin. 
 
 ```
 createuser -s postgres
@@ -80,7 +80,7 @@ Install PGAdmin4. Go to [https://www.pgadmin.org/download/](https://www.pgadmin.
 We recommend installing pgAdmin 4 as a WYSIWYG database administration tool.  
 
 If you have used earlier versions MacOS versions of PgAdmin, you may be surprised to see that pgAdmin4 is no longer an 
-app, "The desktop runtime now runs as a system tray application and utilises the browser on the system to display pgAdmin."
+app, "The desktop runtime now runs as a system tray application and utilizes the browser on the system to display pgAdmin."
 in other words, it is now a webapp that runs at [http://127.0.0.1:55011/browser/](http://127.0.0.1:55011/browser/)
 
 NOTE: You may need to turn off the restriction in "Security & Privacy" on "unidentified developers"
@@ -123,7 +123,7 @@ Open pgAdmin 4 and navigate to:
    * Maintenance database: postgres
    * User name: postgres
 
-    ![ScreenShot](images/CreateServerConnection.png)
+    ![ScreenShot](images/CreateServerConnection2.png)
 
 4. Press Save
 

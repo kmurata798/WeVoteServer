@@ -7,13 +7,13 @@ Google Civic API, Ballotpedia, Vote Smart, MapLight, TheUnitedStates.io and the 
 it up to voters, and let voters Support/Oppose and Like ballot items. We are also building tools to capture
 and share voter guide data.
 
-You can see our current alpha version for recent national and some reigonal elections here:  https://WeVote.US/
+You can see our current alpha version for recent national and some regional elections here:  https://WeVote.US/
 
 To get started as a We Vote developer, <a href="https://www.clahub.com/agreements/wevote/WeVoteServer">sign the Contributor License Agreement</a>.
 
 ## Installing Python/Django API Server
 
-We have two sets of install instuctions, the first is a simplified version specifically for the Mac, and the second is a 
+We have two sets of install instructions, the first is a simplified version specifically for the Mac, and the second is a 
 more detailed set with more options for Linux and AWS
 
 1. Use these [Simplified Instructions for Mac](docs/README_MAC_SIMPLIFIED_INSTALL.md) leveraging the free (and powerful) PyCharm IDE and debugger (**recommended!**) 
@@ -50,5 +50,3 @@ See [Instructions for Scheduled Tasks](docs/README_SCHEDULED_TASKS.md)
 ## Join Us
 
 We meet weekly on Google hangouts, and on a team Slack. Please contact Dale.McGrew@WeVote.US for more information.
-
-
