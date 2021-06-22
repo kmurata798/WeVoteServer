@@ -79,7 +79,7 @@ Feel free to add any other PyCharm tools that you would like!  When done press '
 
    <img width="500" src="https://raw.githubusercontent.com/wevote/WeVoteServer/develop/docs/images/VCSorGIT2.png"> 
    
-   Select 'Git' on the VCS meu, and press Ok.
+   Select 'Git' on the VCS menu, and press Ok.
    
    <img width="700" src="https://raw.githubusercontent.com/wevote/WeVoteServer/develop/docs/images/AddGit.png"> 
 
